@@ -4,16 +4,11 @@ You can use the [editor on GitHub](https://github.com/pruthvipheonix/Fraud-Detec
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Fraud Detection Project 1
+## Fraud Detection Project
 ## Course Project
-### Project 3
+## Minimal Theme Project 
 
 - Bulleted
 - List
